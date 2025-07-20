@@ -1,0 +1,20 @@
+.link {
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 5.4rem;
+}
+
+.title {
+  color: var(--color-light--3);
+  font-size: 3.4rem;
+  font-weight: 700;
+  margin-left: 1.6rem;
+  text-transform: capitalize;
+}

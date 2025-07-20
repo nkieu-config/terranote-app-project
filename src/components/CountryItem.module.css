@@ -1,0 +1,19 @@
+.countryItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+
+  background-color: var(--color-dark--1);
+  border-radius: 7px;
+  padding: 1rem 2rem;
+  border-left: 1rem solid var(--color-brand--1);
+}
+
+.countryItem span:first-child {
+  font-family: "Twemoji Country Flags";
+  font-size: 3rem;
+  line-height: 1;
+}

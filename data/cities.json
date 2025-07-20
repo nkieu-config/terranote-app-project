@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Riihimaki",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-12-11T16:34:15.000Z",
+      "notes": "",
+      "position": {
+        "lat": "60.75254530148422",
+        "lng": "24.78515625"
+      },
+      "id": "l0TmGwL"
+    },
+    {
+      "cityName": "Kilbirnie",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-03-25T16:34:28.000Z",
+      "notes": "",
+      "position": {
+        "lat": "55.80837780389182",
+        "lng": "-4.746093750000001"
+      },
+      "id": "WTOczZr"
+    },
+    {
+      "cityName": "Vors",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2025-07-08T16:34:47.000Z",
+      "notes": "",
+      "position": {
+        "lat": "46.66200577885531",
+        "lng": "17.226562500000004"
+      },
+      "id": "EthE57G"
+    },
+    {
+      "cityName": "Verfeil",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-05-07T16:34:54.000Z",
+      "notes": "",
+      "position": {
+        "lat": "43.693207385196786",
+        "lng": "1.6699218750000002"
+      },
+      "id": "EuoagI4"
+    },
+    {
+      "cityName": "Los Yebenes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-30T16:35:04.000Z",
+      "notes": "",
+      "position": {
+        "lat": "39.488090515595104",
+        "lng": "-3.8671875000000004"
+      },
+      "id": "512CD7p"
+    },
+    {
+      "cityName": "Akcakent",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-05-25T16:35:33.000Z",
+      "notes": "",
+      "position": {
+        "lat": "39.622839163862004",
+        "lng": "34.01367187500001"
+      },
+      "id": "c9yhw6Q"
+    },
+    {
+      "cityName": "Ohey",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2025-05-25T16:37:41.000Z",
+      "notes": "",
+      "position": {
+        "lat": "50.4248984635962",
+        "lng": "5.097656250000001"
+      },
+      "id": "gh6p6Og"
+    },
+    {
+      "cityName": "Narni",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-01-13T16:38:12.000Z",
+      "notes": "",
+      "position": {
+        "lat": "42.47705585732641",
+        "lng": "12.436523437500002"
+      },
+      "id": "iKss4Ki"
+    }
+  ]
+}
