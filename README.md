@@ -39,6 +39,7 @@ This app was created to deeply reinforce advanced React concepts, such as:
 - **React Context API + useReducer**:
   - Centralized global state for authentication and cities
   - Optimized state updates (loading, error, CRUD operations)
+  - Memoizing context function using `useCallback`
 - **Custom Hooks**:
   - `useCities`, `useAuth`, `useGeolocation`, and `useUrlPosition`
 - **Component Composition**:
