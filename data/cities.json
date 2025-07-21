@@ -1,88 +1,94 @@
 {
   "cities": [
     {
-      "cityName": "Riihimaki",
-      "country": "Finland",
-      "emoji": "🇫🇮",
-      "date": "2024-12-11T16:34:15.000Z",
-      "notes": "",
-      "position": {
-        "lat": "60.75254530148422",
-        "lng": "24.78515625"
-      },
-      "id": "l0TmGwL"
-    },
-    {
-      "cityName": "Vors",
-      "country": "Hungary",
-      "emoji": "🇭🇺",
-      "date": "2025-07-08T16:34:47.000Z",
-      "notes": "",
-      "position": {
-        "lat": "46.66200577885531",
-        "lng": "17.226562500000004"
-      },
-      "id": "EthE57G"
-    },
-    {
-      "cityName": "Verfeil",
+      "cityName": "Paris",
       "country": "France",
       "emoji": "🇫🇷",
-      "date": "2024-05-07T16:34:54.000Z",
-      "notes": "",
-      "position": {
-        "lat": "43.693207385196786",
-        "lng": "1.6699218750000002"
-      },
-      "id": "EuoagI4"
+      "date": "2023-05-14T09:15:00.000Z",
+      "notes": "Evening stroll along the Seine — beautiful atmosphere and the Eiffel Tower was just as dreamy as I imagined.",
+      "position": { "lat": "48.8566", "lng": "2.3522" },
+      "id": 1
     },
     {
-      "cityName": "Los Yebenes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-30T16:35:04.000Z",
-      "notes": "",
-      "position": {
-        "lat": "39.488090515595104",
-        "lng": "-3.8671875000000004"
-      },
-      "id": "512CD7p"
-    },
-    {
-      "cityName": "Akcakent",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2023-05-25T16:35:33.000Z",
-      "notes": "",
-      "position": {
-        "lat": "39.622839163862004",
-        "lng": "34.01367187500001"
-      },
-      "id": "c9yhw6Q"
-    },
-    {
-      "cityName": "Ohey",
-      "country": "Belgium",
-      "emoji": "🇧🇪",
-      "date": "2025-05-25T16:37:41.000Z",
-      "notes": "",
-      "position": {
-        "lat": "50.4248984635962",
-        "lng": "5.097656250000001"
-      },
-      "id": "gh6p6Og"
-    },
-    {
-      "cityName": "Narni",
+      "cityName": "Rome",
       "country": "Italy",
       "emoji": "🇮🇹",
-      "date": "2025-01-13T16:38:12.000Z",
-      "notes": "",
-      "position": {
-        "lat": "42.47705585732641",
-        "lng": "12.436523437500002"
-      },
-      "id": "iKss4Ki"
+      "date": "2024-08-02T11:45:00.000Z",
+      "notes": "Impressed by the ancient Roman architecture. Walked around the Colosseum and treated myself to some delicious gelato.",
+      "position": { "lat": "41.9028", "lng": "12.4964" },
+      "id": 2
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2022-11-18T17:20:00.000Z",
+      "notes": "Enjoyed the soft morning sun, visited the Royal Palace, and tried tapas for the first time!",
+      "position": { "lat": "40.4168", "lng": "-3.7038" },
+      "id": 3
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-04-05T08:30:00.000Z",
+      "notes": "A city full of structure and fascinating history, especially learning about the Berlin Wall.",
+      "position": { "lat": "52.5200", "lng": "13.4050" },
+      "id": 4
+    },
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2023-09-10T14:50:00.000Z",
+      "notes": "Peaceful city with stunning Orthodox churches and charming architecture.",
+      "position": { "lat": "50.4501", "lng": "30.5234" },
+      "id": 5
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands",
+      "emoji": "🇳🇱",
+      "date": "2022-06-22T12:10:00.000Z",
+      "notes": "Rented a bike and rode through cute neighborhoods and scenic canals. Such a refreshing day!",
+      "position": { "lat": "52.3676", "lng": "4.9041" },
+      "id": 6
+    },
+    {
+      "cityName": "Athens",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2023-10-07T10:25:00.000Z",
+      "notes": "Standing on the Acropolis, overlooking the whole city — felt like stepping back in time.",
+      "position": { "lat": "37.9838", "lng": "23.7275" },
+      "id": 7
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-15T15:05:00.000Z",
+      "notes": "Wandered through Alfama while listening to Fado music and had the most amazing pastel de nata.",
+      "position": { "lat": "38.7223", "lng": "-9.1393" },
+      "id": 8
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-03-30T13:40:00.000Z",
+      "notes": "Saw cherry blossoms in Ueno Park, explored the streets of Asakusa, and had a steaming bowl of authentic ramen.",
+      "position": { "lat": "35.6895", "lng": "139.6917" },
+      "id": 9
+    },
+    {
+      "cityName": "Bangkok",
+      "country": "Thailand",
+      "emoji": "🇹🇭",
+      "date": "2024-12-09T16:35:00.000Z",
+      "notes": "Food tour around Yaowarat Street and an evening boat ride on the Chao Phraya River. Unforgettable flavors and views!",
+      "position": { "lat": "13.7563", "lng": "100.5018" },
+      "id": 10
     }
   ]
 }
